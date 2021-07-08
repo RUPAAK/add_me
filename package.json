@@ -1,0 +1,22 @@
+{
+  "name": "@rupaak/add_me",
+  "version": "1.0.0",
+  "description": "Add Numbers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RUPAAK/npmpackage.git"
+  },
+  "keywords": [
+    "addme"
+  ],
+  "author": "Rupak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RUPAAK/npmpackage/issues"
+  },
+  "homepage": "https://github.com/RUPAAK/npmpackage#readme"
+}
